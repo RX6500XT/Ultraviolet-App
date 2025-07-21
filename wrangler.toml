@@ -1,0 +1,8 @@
+name = "ultraviolet-proxy"
+type = "javascript"
+compatibility_date = "2025-07-21"
+main = "index.js" # or whatever file your server starts in
+
+[site]
+bucket = "./public"
+entry-point = "."
